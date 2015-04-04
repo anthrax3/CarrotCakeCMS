@@ -9,4 +9,3 @@ Some features include: blogging engine, configurable date based blog post URLs, 
 
 Other features also include date based release and retirement of content - allowing you to queue up content to appear or disappear from your site on a pre-arranged schedule, site timezone designation, ability to rename the administration folder, and site search. Supports the use of master pages to provide re-use when designing site templates.
 
-Recommended software is Tortoise SVN and AnkhSVN for working with the Subversion source code repository.
